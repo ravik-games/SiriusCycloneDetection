@@ -1,0 +1,9 @@
+train: ../../data/TC-Satellite-DataSet-main/images/train
+val:  ../../data/TC-Satellite-DataSet-main/images/val/
+test: ../../data/TC-Satellite-DataSet-main/images/test/
+
+# number of classes
+nc: 7
+
+# class names
+names: ["Class_1", "Class_2", "Class_3", "Class_4", "Class_5", "Class_6", "Class_7"]
